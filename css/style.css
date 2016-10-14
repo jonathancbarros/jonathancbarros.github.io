@@ -33,21 +33,21 @@ body a:hover{
 }
 /*-- top-nav --*/
 .top-nav {
-    background: #337ab7;
+  background: #337ab7;
 }
 .nav > li {
-    display: inline-block;
-    padding: 1.5em 2em;
+  display: inline-block;
+  padding: 1.5em 2em;
 }
 ul.nav.navbar {
-    margin: 0;
-    text-align: center;
+  margin: 0;
+  text-align: center;
 }
 ul.nav.navbar li a {
-    color: #fff;
-    padding: 0;
-    font-size: 1.5em;
-    font-family: 'Text Me One', sans-serif;
+  color: #fff;
+  padding: 0;
+  font-size: 1.5em;
+  font-family: 'Text Me One', sans-serif;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active{
 	color:#337ab7;
@@ -87,7 +87,7 @@ ul.nav.navbar li a:focus{
 	width: 100%;
 }
 ul.nav.navbar li a.w3ls-icon{
-    font-size: 1.2em;
+  font-size: 1.2em;
 }
 ul.nav.navbar li a.w3ls-icon:hover {
 	color:#000;
@@ -96,109 +96,109 @@ ul.nav.navbar li a.w3ls-icon:hover {
 /*-- banner --*/
 .video {
 	background:url(../images/cv1-min.jpeg)no-repeat;
-    background-position:0px 0px;
+  background-position:0px 0px;
 	text-align: left;
 	min-height: 100%;
 	background-size:cover;
 }
 .banner-text {
-    margin: 22em 0 10em;
-    text-align: center;
-    background: rgba(0, 0, 0, 0.72);
-    display: inline-block;
-    padding: 4em;
+  margin: 22em 0 10em;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.72);
+  display: inline-block;
+  padding: 4em;
 }
 .banner-text h1 {
-    font-size: 3.5em;
-    color: #fff;
+  font-size: 3.5em;
+  color: #fff;
 	font-weight: 900;
 }
 .banner-text h6 {
-    font-size: 1.2em;
-    color: #cac7c8;
-    margin-top: 1em;
-    letter-spacing: 3px;
-    font-weight: 900;
+  font-size: 1.2em;
+  color: #cac7c8;
+  margin-top: 1em;
+  letter-spacing: 3px;
+  font-weight: 900;
 }
 .video iframe{
-width: 100%;
-    min-height: 15em;
-    border: 1px solid #b3b3b3;
+  width: 100%;
+  min-height: 15em;
+  border: 1px solid #b3b3b3;
 }
 /*-- //banner --*/
 /*-- modal-basic --*/
 .modal{
-    background: rgba(19, 198, 245, 0.84);
+  background: rgba(19, 198, 245, 0.84);
 	background-size:cover;
 	padding: 0 !important;
 }
 .modal-dialog {
-    width: 60%;
+  width: 90%;
 	margin:4em auto;
 }
 .modal-content {
-    background: url(../images/bg.png) #000 repeat;
+  background: url(../images/bg.png) #000 repeat;
 }
 .modal-body.modal-spa {
-    padding: 0  1em 3em;
+  padding: 0  1em 3em;
 }
 .modal-header {
-    border: none;
-    margin-bottom: 2em;
+  border: none;
+  margin-bottom: 2em;
 	padding: 2em;
 }
 button.close {
-    color: #fff;
-    opacity: 1;
-    font-size: 3em;
-    padding: 0;
-    margin: 0 0;
-    outline: none;
-    font-weight: 100;
-    float: none;
-    position: absolute;
-    right: 7%;
+  color: #fff;
+  opacity: 1;
+  font-size: 3em;
+  padding: 0;
+  margin: 0 0;
+  outline: none;
+  font-weight: 100;
+  float: none;
+  position: absolute;
+  right: 7%;
 }
 .close:hover, .close:focus {
-    color: #fff;
-    text-decoration: none;
-    cursor: pointer;
-    filter: alpha(opacity=50);
-    opacity: 1;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  filter: alpha(opacity=50);
+  opacity: 1;
 }
 h4.modal-title {
-    font-size: 2.5em;
-    color: #fff;
+  font-size: 2.5em;
+  color: #fff;
 	text-align:center;
 }
 /*-- //modal-basic --*/
 /*-- about --*/
 .about h3 {
-    font-size: 2.5em;
-    color: #fff;
+  font-size: 2.5em;
+  color: #fff;
 }
 .about h3 span {
-    color: #337ab7;
+  color: #337ab7;
 }
 .about h4 {
-    font-size: 1.2em;
-    color: #a5a5a5;
-    margin-top: 1em;
+  font-size: 1.2em;
+  color: #a5a5a5;
+  margin-top: 1em;
 }
 
 .about-left img {
-    border: 5px solid #1dadd3;
+  border: 5px solid #1dadd3;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
 	-o-border-radius: 50%;
 	-ms-border-radius: 50%;
-    border-radius: 50%;
-    padding: 10px;
+  border-radius: 50%;
+  padding: 10px;
 }
 ul.address {
-    margin-top: 1.5em;
-    border-top: 1px dashed #1d7288;
-    padding-top: 0.5em;
+  margin-top: 1.5em;
+  border-top: 1px dashed #1d7288;
+  padding-top: 0.5em;
 }
 ul.address li {
     display: block;
@@ -618,7 +618,7 @@ p.agile-br {
 .bar-grids h4 {
     margin-bottom: 1em;
 }
-.bar-grids:nth-child(2) {
+.bar-grids:nth-child(3) {
     margin-top: 2.5em;
 }
 .gallery-row {
